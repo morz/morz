@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I working from 🏡
+I'm currently working from 🏢
 
 <!--
 **morz/morz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
